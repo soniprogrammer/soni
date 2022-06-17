@@ -4,7 +4,6 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import com.example.retrofitmvvm.api.ApiInterface
 import com.example.retrofitmvvm.model.DummyDataItem
-import com.example.retrofitmvvm.model.Jokes
 
 
 class PostRepository (private val apiInterface: ApiInterface){
